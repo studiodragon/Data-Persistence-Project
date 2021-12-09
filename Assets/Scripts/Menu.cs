@@ -12,10 +12,7 @@ public class Menu : MonoBehaviour
 
     private void Start()
     {
-        if (MainManager.Instance != null)
-        {
-            Debug.Log(MainManager.Instance.PlayerName + "test");
-        }
+
     }
 
     public void StartNew()

@@ -11,7 +11,7 @@ public class ReadInput : MonoBehaviour
     {
         input = s;
        
-        Debug.Log(input);
+        Debug.Log(input + "read input");
 
         
         
